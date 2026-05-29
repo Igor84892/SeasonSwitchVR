@@ -1676,3 +1676,43 @@ The following settings have been applied:
 [2026.05.29-23.05.17:809][217]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1000.679260
 [2026.05.29-23.05.18:809][220]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.29-23.05.18:809][220]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1001.345886, Update Interval: 331.125214
+[2026.05.29-23.07.47:253][666]LogWindowsTextInputMethodSystem: Activated input method: Ukraiński (Ukraina) - (Keyboard).
+[2026.05.29-23.07.47:253][666]LogWindowsTextInputMethodSystem: Activated input method: Ukraiński (Ukraina) - (Keyboard).
+[2026.05.29-23.09.45:670][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.05.29-23.09.45:677][244]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2026.05.29-23.09.45:677][244]LogSavePackage: Moving '../../../../../../Users/semen/VR/SeasonSwitchVR/Saved/VRTemplateMap_Auto18AED7EDD4454BD16261DB18507D96E62.tmp' to '../../../../../../Users/semen/VR/SeasonSwitchVR/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2026.05.29-23.09.45:679][244]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.018
+[2026.05.29-23.09.45:679][244]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2026.05.29-23.11.02:213][474]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1345.084229
+[2026.05.29-23.11.03:213][477]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-23.11.03:214][477]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1345.752930, Update Interval: 327.250580
+[2026.05.29-23.11.15:253][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.29-23.11.15:388][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.05.29-23.11.15:400][580]LogSavePackage: Moving output files for package: /Game/Pine_Imposter_Pack/Maps/Pine_Imposter_Demo
+[2026.05.29-23.11.15:401][580]LogSavePackage: Moving '../../../../../../Users/semen/VR/SeasonSwitchVR/Saved/Pine_Imposter_Demo95BEE8F940C322604651639A57A4E13A.tmp' to '../../../../../../Users/semen/VR/SeasonSwitchVR/Content/Pine_Imposter_Pack/Maps/Pine_Imposter_Demo.umap'
+[2026.05.29-23.11.15:407][580]LogFileHelpers: Saving map 'Pine_Imposter_Demo' took 0.027
+[2026.05.29-23.11.15:413][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.038 ms (total: 702.090 ms)
+[2026.05.29-23.11.15:548][580]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.29-23.11.15:548][580]LogContentValidation: Enabled validators:
+[2026.05.29-23.11.15:548][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.29-23.11.15:548][580]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.29-23.11.15:548][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.29-23.11.15:548][580]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.29-23.11.15:548][580]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.29-23.11.15:548][580]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.29-23.11.15:548][580]AssetCheck: /Game/Pine_Imposter_Pack/Maps/Pine_Imposter_Demo Weryfikowanie zasobu
+[2026.05.29-23.14.36:843][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.29-23.14.36:978][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.05.29-23.14.36:991][ 31]LogSavePackage: Moving output files for package: /Game/Pine_Imposter_Pack/Maps/Pine_Imposter_Demo
+[2026.05.29-23.14.36:992][ 31]LogSavePackage: Moving '../../../../../../Users/semen/VR/SeasonSwitchVR/Saved/Pine_Imposter_DemoAF98D80D4DFE5A1903629C88C6EF9FFD.tmp' to '../../../../../../Users/semen/VR/SeasonSwitchVR/Content/Pine_Imposter_Pack/Maps/Pine_Imposter_Demo.umap'
+[2026.05.29-23.14.37:000][ 31]LogFileHelpers: Saving map 'Pine_Imposter_Demo' took 0.030
+[2026.05.29-23.14.37:012][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.847 ms (total: 871.937 ms)
+[2026.05.29-23.14.37:155][ 31]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.29-23.14.37:155][ 31]LogContentValidation: Enabled validators:
+[2026.05.29-23.14.37:155][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.29-23.14.37:155][ 31]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.29-23.14.37:155][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.29-23.14.37:155][ 31]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.29-23.14.37:155][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.29-23.14.37:155][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.29-23.14.37:155][ 31]AssetCheck: /Game/Pine_Imposter_Pack/Maps/Pine_Imposter_Demo Weryfikowanie zasobu
